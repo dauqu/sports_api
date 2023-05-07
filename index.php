@@ -31,7 +31,7 @@
         </div>
         <div>
             <span class="footer-title">Cricket</span>
-            <a href="./cricket/cricket.php" class="link link-hover">Leagues</a>
+            <a href="./cricket/leagues.php" class="link link-hover">Leagues</a>
             <a href="./cricket/fixtures.php" class="link link-hover">Fixtures</a>
             <a href="./cricket/h2h.php" class="link link-hover">H2H (Head to Head)</a>
             <a href="./cricket/standings.php" class="link link-hover">Standings</a>
