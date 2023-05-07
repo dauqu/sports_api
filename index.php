@@ -29,14 +29,16 @@
             <a href="./football/odds.php" class="link link-hover">Odds</a>
             <a href="./football/probabilities.php" class="link link-hover">Probabilities</a>
         </div>
-        <!-- <div>
-            <span class="footer-title">Company</span>
-            <a class="link link-hover">About us</a>
-            <a class="link link-hover">Contact</a>
-            <a class="link link-hover">Jobs</a>
-            <a class="link link-hover">Press kit</a>
-        </div>
         <div>
+            <span class="footer-title">Cricket</span>
+            <a href="./cricket/cricket.php" class="link link-hover">Leagues</a>
+            <a href="./cricket/fixtures.php" class="link link-hover">Fixtures</a>
+            <a href="./cricket/h2h.php" class="link link-hover">H2H (Head to Head)</a>
+            <a href="./cricket/standings.php" class="link link-hover">Standings</a>
+            <a href="./cricket/teams.php" class="link link-hover">Teams</a>
+            <a href="./cricket/odds.php" class="link link-hover">Odds</a>
+        </div>
+        <!-- <div>
             <span class="footer-title">Legal</span>
             <a class="link link-hover">Terms of use</a>
             <a class="link link-hover">Privacy policy</a>
